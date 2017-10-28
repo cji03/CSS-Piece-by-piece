@@ -156,3 +156,6 @@
   width: 200px;
 }
 ```
+
+---
+[Example](https://codepen.io/cjjason/pen/gXOpxv)
