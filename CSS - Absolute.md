@@ -57,3 +57,5 @@
   height: 50%;
 }
 ```
+---
+[Example](https://codepen.io/cjjason/pen/wPvmYv)
