@@ -36,6 +36,10 @@
   -moz-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
+  /* 或者不使用transform, 设置其上下左右都为0，margin: auto
+  * top:0;right:0;left:0;bottom:0;
+  * margin:atuo;
+  */
   }
 ```
 
